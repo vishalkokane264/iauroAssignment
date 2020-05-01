@@ -1,0 +1,6 @@
+Run:
+Setup mysql and tables
+
+mysql < database.sql
+node service.js
+
